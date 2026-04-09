@@ -1,0 +1,14 @@
+public class VariableDemo {
+    public static void main(String[] args) {
+
+        int number = 10;          // integer variable
+        double price = 99.99;    // decimal variable
+        char grade = 'A';        // character variable
+        String name = "Rafi";    // text variable
+
+        System.out.println("Number: " + number);
+        System.out.println("Price: " + price);
+        System.out.println("Grade: " + grade);
+        System.out.println("Name: " + name);
+    }
+}
