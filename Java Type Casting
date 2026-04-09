@@ -1,0 +1,14 @@
+public class TypeCastingDemo {
+    public static void main(String[] args) {
+
+        // Implicit Casting (small → big)
+        int num = 10;
+        double d = num;  
+        System.out.println("Implicit Casting: " + d);
+
+        // Explicit Casting (big → small)
+        double price = 99.99;
+        int p = (int) price;  
+        System.out.println("Explicit Casting: " + p);
+    }
+}
