@@ -1,0 +1,16 @@
+public class DataTypesDemo {
+    public static void main(String[] args) {
+
+        int age = 20;              // integer
+        double price = 99.99;     // decimal
+        char grade = 'A';         // character
+        boolean isStudent = true; // true/false
+        String name = "Rafi";     // text
+
+        System.out.println("Age: " + age);
+        System.out.println("Price: " + price);
+        System.out.println("Grade: " + grade);
+        System.out.println("Student: " + isStudent);
+        System.out.println("Name: " + name);
+    }
+}
