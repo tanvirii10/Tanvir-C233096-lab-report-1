@@ -1,0 +1,10 @@
+public class OutputDemo {
+    public static void main(String[] args) {
+        
+        System.out.println("Hello Java!");
+        System.out.println("Welcome to programming");
+
+        System.out.print("My name is ");
+        System.out.print("Rafi");
+    }
+}
