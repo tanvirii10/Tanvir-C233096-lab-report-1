@@ -1,0 +1,13 @@
+public class CommentDemo {
+    public static void main(String[] args) {
+        
+        // এটা single-line comment
+        System.out.println("Hello Java");
+
+        /*
+         এটা multi-line comment
+         এটা run হবে না
+        */
+        System.out.println("Comments Example");
+    }
+}
