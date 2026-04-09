@@ -1,0 +1,13 @@
+public class SyntaxDemo {
+    public static void main(String[] args) {
+        
+        
+        System.out.println("Java Syntax Example");
+
+        int number = 10;        // integer variable
+        String name = "Rafi";  // string variable
+
+        System.out.println("Number: " + number);
+        System.out.println("Name: " + name);
+    }
+}
